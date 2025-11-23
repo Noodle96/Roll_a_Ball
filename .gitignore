@@ -1,0 +1,52 @@
+# --- Unity ---
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Cache de Unity
+MemoryCaptures/
+Sysinfo.txt
+
+# Asset Store cache
+[Aa]sset[Ss]tore/
+
+# --- Sistema operativo ---
+.DS_Store
+Thumbs.db
+
+# --- VS / Rider / VSCode ---
+.vs/
+.idea/
+.vscode/
+
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.tmp
+*.pidb
+*.booproj
+*.svd
+
+# Rider
+*.sln.dotSettings
+
+# --- Builds específicos (si los generas dentro del repo) ---
+# Android
+*.apk
+*.aab
+
+# iOS
+Xcode/
+
+# WebGL
+WebGLBuild/
+
+# --- Otros ---
+*.unitypackage
+
